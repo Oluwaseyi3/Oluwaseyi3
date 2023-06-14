@@ -1,9 +1,31 @@
- Howdy there 👋
+ <h1 align="center">Hi 👋, I'm Oluwaseyi Olasupo</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on a Social Media Blogging Platform
-- 🌱 I’m currently learning React Native
-- 👯 I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: email: iamoluwaseyiolasupo@gmail.com LinkedIn: https://www.linkedin.com/in/oluwaseyi-olasupo-508b27210 Twitter: https://twitter.com/OlasupoJoshua7
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm in love with Barca 🔵🔴
+
+
+- 🔭 I’m currently working on an event booking app **Woodly**
+
+- 🌱 I’m currently learning **React Native**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/oluwaseyi-olasupo-508b27210](https://www.linkedin.com/in/oluwaseyi-olasupo-508b27210)
+
+- 📝 I regularly write articles on [https://joshua777.hashnode.dev/](https://joshua777.hashnode.dev/)
+
+- 💬 Ask me about **React, Nodejs, Nextjs**
+
+- 📫 How to reach me **iamoluwaseyiolasupo@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Zr5c7boTF0FSxAgaOTPfhkm_jqLKMcy6/view?usp=drivesdk](https://drive.google.com/file/d/1Zr5c7boTF0FSxAgaOTPfhkm_jqLKMcy6/view?usp=drivesdk)
+
+- ⚡ Fun fact **I’m a Barca fan🔴🔵**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oluwaseyi olasupo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oluwaseyi olasupo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
 
