@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on an event booking app **Woodly** and also contributing to a cloud agnostic environment inspector that helps developers uncover hidden costs, performance and security issues. https://www.komiser.io/
 
-- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/oluwaseyi-olasupo-508b27210](https://www.linkedin.com/in/oluwaseyi-olasupo-508b27210)
 
