@@ -3,18 +3,14 @@
 
 
 
-- 🔭 I’m currently working on an event booking app **Woodly** and also contributing to a cloud agnostic environment inspector that helps developers uncover hidden costs, performance and security issues. https://www.komiser.io/
+- 🔭 I’m currently working on an Saas platform **Prymshare** https://www.prymshare.co/ and also contributing to a cloud agnostic environment inspector that helps developers uncover hidden costs, performance and security issues. https://www.komiser.io/
 
-
-
-
-- 📝 I regularly write articles on [https://joshua777.hashnode.dev/](https://joshua777.hashnode.dev/)
 
 - 💬 Ask me about **React, Nodejs, Nextjs**
 
 - 📫 How to reach me **iamoluwaseyiolasupo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Zr5c7boTF0FSxAgaOTPfhkm_jqLKMcy6/view?usp=drivesdk](https://drive.google.com/file/d/1Zr5c7boTF0FSxAgaOTPfhkm_jqLKMcy6/view?usp=drivesdk)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1kcflN4Bc435iA7fQR0aEGVhMj1OTy5nFkhEMR5YN5rg/edit?usp=drive_link]
 
 - ⚡ Fun fact **I’m a Barca fan🔴🔵**
 
