@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on an Saas platform **Prymshare** https://www.prymshare.co/ and also contributing to a cloud agnostic environment inspector that helps developers uncover hidden costs, performance and security issues. https://www.komiser.io/
 
 
-- 💬 Ask me about **React, Nodejs, Nextjs**
+- 💬 Ask me about **Golang**
 
 - 📫 How to reach me **iamoluwaseyiolasupo@gmail.com**
 
