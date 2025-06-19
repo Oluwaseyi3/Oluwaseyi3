@@ -1,9 +1,17 @@
- <h1 align="center">Hi 👋, I'm Oluwaseyi Olasupo</h1>
-<h3 align="center">A passionate full stack developer</h3>
+ <h1 align="center">Hi 👋, I'm Joshua Olasupo</h1>
+<h3 align="center">A passionate full stack Engierr</h3>
 
 
 
-- 🔭 I’m currently working on an Saas platform **Prymshare** https://www.prymshare.co/ and also contributing to a cloud agnostic environment inspector that helps developers uncover hidden costs, performance and security issues. https://www.komiser.io/
+I'm currently working on:
+
+🚀 Prymshare – A SaaS platform that makes it easy to monetize and share digital content.
+
+☁️ Komiser – Contributing to this open-source, cloud-agnostic tool that helps developers uncover hidden cloud costs, performance issues, and security risks.
+
+🔍 PrymSearch(https://prymsearch.com/) – An AI-powered engine to find the right people, businesses, and creators — no more endless scrolling or cold outreach guesswork.
+
+Let's build something awesome! 👨‍💻
 
 
 - 💬 Ask me about **Golang**
