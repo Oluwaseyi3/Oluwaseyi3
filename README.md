@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Joshua Olasupo</h1>
-<h3 align="center">A passionate full stack Engierr</h3>
+<h3 align="center">A passionate backend Engineer</h3>
 
 
 
